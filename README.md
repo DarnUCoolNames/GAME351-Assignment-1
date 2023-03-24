@@ -2,7 +2,9 @@
 Assignment 1
 ______________________________________________________
 Program 1 Template (Starter Code) - v. 1.0
+
 School of Information, University of Arizona 
+
 July 7, 2022
 
 Group Members: Teresa Tran, Hannah Klecan, Evelyn, Ian
